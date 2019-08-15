@@ -15,8 +15,8 @@ const ImageTimer = styled.img`
 `;
 
 const ShowTimer = styled.span`
-  font-size: 230px;
-  margin-top: -360px;
+  font-size: 190px;
+  margin-top: -330px;
 `;
 
 const BoxButtons = styled.div`
